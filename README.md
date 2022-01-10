@@ -14,7 +14,7 @@ La actividad ha sido realizada de manera individual por Hernando Hernández Mari
 
 El conjunto de datos seleccionado reposa en uno de los sistemas de información del Instituto de Desarrollo Urbano (IDU); está es una institución pública encargada de realizar obras de infraestructura, mantenimiento vial y de espacio público para una mejor movilidad, logrando calidad de vida y bienestar para los habitantes de Bogotá; para más detalles de la organización ver en el siguiente link: https://www.idu.gov.co/
 
-El conjunto de datos seleccionado son las PQRSD (Peticiones, Quejas, Reclamos, Sugerencias y Derechos de Petición)) entre los meses de enero a julio del año 2021, las cuales ascienden a 20.660 requerimientos realizado por la ciudadanía al IDU en dicho periodo de tiempo.
+El conjunto de datos seleccionado son las PQRSD (Peticiones, Quejas, Reclamos, Sugerencias y Derechos de Petición)) entre los meses de enero a julio del año 2021, las cuales ascienden a 20.659 requerimientos realizado por la ciudadanía al IDU en dicho periodo de tiempo.
 
 # Visualización del Data Set
 
