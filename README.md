@@ -18,4 +18,4 @@ El conjunto de datos seleccionado son las PQRSD (Peticiones, Quejas, Reclamos, S
 
 # Visualización del Data Set
 
-Se presenta una visualización de tipo Dashboard (cuadro de control), a partir de la selección de variables relevantes que permitan presentar e incentivar, de manera resumida,el análisis y apoyar la toma de decisiones en la priorización de los proyectos de infraestructura relacionados con la malla vial y el espacio público, a partir de los requerimientos ciudadanos. Para tal fin se utilizó el programa Excel.
+Se presenta una visualización de tipo Dashboard (cuadro de control), a partir de la selección de variables relevantes que permitan presentar e incentivar, de manera resumida, el análisis y apoyar la toma de decisiones en la priorización de los proyectos de infraestructura relacionados con la malla vial y el espacio público, a partir de los requerimientos ciudadanos. Para tal fin se utilizó el programa Excel.
